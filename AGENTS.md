@@ -14,6 +14,10 @@ Rode um subagent para cada projeto e execute a skill VALIDACAO.md.
 no fim, gere um report de tudo que foi feito.
 
 
+
+Apesar de estar no windows, faça o git commmit sempre!!!
+
+
 ## Child DOX Index
 
 | Scope (subtree root) | Doc path |
