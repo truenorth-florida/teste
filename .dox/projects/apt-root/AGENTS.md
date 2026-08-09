@@ -12,6 +12,7 @@ Evandro — dono do projeto.
 
 - Pasta do projeto: `projects/apt-root/`
 - Esboço / brief inicial do projeto: `projects/apt-root/esboco.md`
+- Escopo do projeto: `projects/apt-root/ESCOPO.md` — criado pela skill `.sklls/VALIDACAO.md` como placeholder ("Escopro necessário"); substituir pelo escopo real quando Evandro confirmar os detalhes
 
 ## Work Guidance
 

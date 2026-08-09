@@ -4,7 +4,7 @@ This is a construction manager and the projects folder contains all the current 
 
 
 ## SKILLS
-All skills files are stored in the .skills folders.
+All skills files are stored in the `.sklls/` folder (ex.: `.sklls/VALIDACAO.md`).
 
 
 ## Execução do fluxo:
@@ -23,6 +23,8 @@ Apesar de estar no windows, faça o git commmit sempre!!!
 | Scope (subtree root) | Doc path |
 |---|---|
 | `projects/apt-root/` | `.dox/projects/apt-root/AGENTS.md` |
+| `projects/casa-maria/` | `.dox/projects/casa-maria/AGENTS.md` |
+| `projects/casa-praia/` | `.dox/projects/casa-praia/AGENTS.md` |
 
 
 # DOX framework

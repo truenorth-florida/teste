@@ -1,0 +1,1 @@
+Escopro necessário
