@@ -10,7 +10,7 @@ Child docs live under `.dox/`, mirroring the scope directory they govern. Source
 | Scope (subtree root) | Doc path |
 |---|---|
 | Repository root | `AGENTS.md` |
-| `src/api/` | `.dox/src/api/AGENTS.md` |
+| `projects/teste1/` | `.dox/projects/teste1/AGENTS.md` |
 | `src/api/handlers/` | `.dox/src/api/handlers/AGENTS.md` |
 
 Rules:
