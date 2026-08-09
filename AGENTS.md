@@ -1,3 +1,13 @@
+## Projects
+
+This is a construction manager and the projects folder contains all the current projects that we are managing.
+
+
+## SKILLS
+All skills files are stored in the .skills folders.
+
+
+
 # DOX framework
 
 - DOX is highly performant AGENTS.md hierarchy installed here
