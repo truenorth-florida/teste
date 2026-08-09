@@ -15,7 +15,7 @@ no fim, gere um report de tudo que foi feito.
 
 
 
-Apesar de estar no windows, faça o git commmit sempre!!!
+Apesar de estar no windows, faça o git commmit e push sempre!!!
 
 
 ## Child DOX Index
