@@ -1,0 +1,1 @@
+Vefique se existe o arquivo ESCOPO.md no projeto e se não existir crie com o texto dentro: "Escopro necessário".

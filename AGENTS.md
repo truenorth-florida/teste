@@ -7,6 +7,19 @@ This is a construction manager and the projects folder contains all the current 
 All skills files are stored in the .skills folders.
 
 
+## Execução do fluxo:
+
+Rode um subagent para cada projeto e execute a skill VALIDACAO.md.
+
+no fim, gere um report de tudo que foi feito.
+
+
+## Child DOX Index
+
+| Scope (subtree root) | Doc path |
+|---|---|
+| `projects/apt-root/` | `.dox/projects/apt-root/AGENTS.md` |
+
 
 # DOX framework
 
